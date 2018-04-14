@@ -1,0 +1,1 @@
+Go博客：[为什么在Go语言中要少用interface{}](https://juejin.im/post/5ad1c766518825555e5e4646)的示例代码。
